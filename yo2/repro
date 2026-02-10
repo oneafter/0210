@@ -1,0 +1,15 @@
+.model m2
+.inputs a b e f g l m2
+.inputs a b e1as a bu empty
+.end
+.model em 0
+.latch ‡l $1.00h i y
+.names a b‡  f g h fl single_out
+.inputs a b c d e f g h i j
+.outputs y
+.names a b c d e f g h i j y
+0---------- 0
+-- y
+.names a b‡ $31ameses a b.l $910mo1111.model m e f 
+.names
+.na
